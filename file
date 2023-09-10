@@ -1,0 +1,2 @@
+the window.setWindowFlags(QtCore.Qt.WindowType.FramelessWindowHint)
+the window.setAttribute(QtCore.Qt.WidgetAttribute.WA_TranslucentBackground)
